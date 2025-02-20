@@ -1,1 +1,1 @@
-# Project-Courses
+# Courses
